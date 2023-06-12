@@ -1,2 +1,3 @@
 # stepik_beginners_conspect.py
-Конспект курса для начинающих со степик
+conspect from stepik beginners python course
+https://stepik.org/course/58852
